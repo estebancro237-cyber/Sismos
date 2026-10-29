@@ -42,6 +42,14 @@
 - Lección 2: conocer el papel del Servicio Geológico Colombiano y de la UNGRD.
 - Lección 3: distinguir el reporte de un sismo de una alerta de emergencia.
 
+## Fuentes de referencia para revisión editorial
+
+1. **UNGRD — Medidas de prevención ante sismos:** https://portal.gestiondelriesgo.gov.co/Paginas/Noticias/2015/Medidas-de-prevencion-ante-sismos.aspx
+2. **Servicio Geológico Colombiano — Información de preparativos ante un sismo:** https://www2.sgc.gov.co/Noticias/Paginas/Informaci%C3%B3n-de-preparativos-ante-un-Sismo.aspx
+3. **UNGRD — Sistema Nacional de Información para la Gestión del Riesgo:** https://www.gestiondelriesgo.gov.co/SNIGRD/pagina.aspx?id=149
+
+Estas fuentes sustentan la revisión del contenido general, pero no implican aprobación oficial del catálogo. Antes de publicar cada lección, un revisor debe cotejar las recomendaciones exactas, registrar fecha y versión de las fuentes, autor/revisor y cambios aplicados. Las recomendaciones pueden variar según el lugar y las instrucciones de las autoridades.
+
 ## Metadatos y publicación
 
 Cada curso publicado debe almacenar: título, objetivo, versión, idioma, estado editorial, autor/revisor, fecha de revisión, fuente(s), módulos ordenados y lecciones ordenadas.
